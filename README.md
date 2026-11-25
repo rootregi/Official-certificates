@@ -10,12 +10,12 @@
 | --- | --- | --- |
 | CCIE Routing & Switching | Cisco | 59999 |
 | CCIE Enterprise Infrastructure | Cisco | 71163 |
-| DEVASC / DevNet Associate | Cisco | — |
+| DevNet Professional | Cisco | 42916742 |
 | PCNSE — Network Security Engineer | Palo Alto Networks | 191659 |
-| Zabbix Certified Professional (ZCP) | Zabbix | — |
+| Zabbix Certified Professional (ZCP) | Zabbix | 1406-051 |
 | HCIE — Transmission | Huawei | 37689 |
 
-Registration numbers are listed where available in the published credential records.
+Registration numbers are listed where available in the published credential records or supplied by the credential holder.
 
 ## Continuing education
 
