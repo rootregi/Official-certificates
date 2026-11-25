@@ -21,6 +21,6 @@ Registration numbers are listed where available in the published credential reco
 
 | Course | Provider | Credential ID |
 | --- | --- | --- |
-| CS50B — CS50’s Computer Science for Business | HarvardX / edX | d42a87ba72bc4b7d941c2d88a5d68ff1 |
+| CS50B — CS50’s Computer Science for Business | Harvard | d42a87ba72bc4b7d941c2d88a5d68ff1 |
 
 Updated 25 November 2026.
